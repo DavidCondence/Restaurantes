@@ -29,5 +29,8 @@ class ContrasenaActivity : AppCompatActivity() {
                 Toast.makeText(this, "Ingresa un dato",Toast.LENGTH_SHORT).show()
             }
         }
+        btn_volver_inicio.setOnClickListener {
+            finish()
+        }
     }
 }

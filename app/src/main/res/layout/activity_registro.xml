@@ -81,13 +81,13 @@
                 android:text="@string/login_sign_up"
                 android:textColor="@color/colorPrimaryText"
                 android:textSize="@dimen/login_text_xl_size"
-                app:layout_constraintBottom_toTopOf="@+id/buttonGoLogIn"
+                app:layout_constraintBottom_toTopOf="@+id/btn_volver_inicio2"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"/>
 
 
         <Button
-                android:id="@+id/buttonGoLogIn"
+                android:id="@+id/btn_volver_inicio2"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/login_button_xl_height"
                 android:background="@drawable/button_ripple"

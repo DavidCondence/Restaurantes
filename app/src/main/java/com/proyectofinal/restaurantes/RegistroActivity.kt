@@ -18,6 +18,9 @@ class RegistroActivity : AppCompatActivity() {
         btn_registrar.setOnClickListener {
             registrar()
         }
+        btn_volver_inicio2.setOnClickListener {
+            finish()
+        }
     }
     private fun registrar(){
         var correo = et_correo_reg.text.toString()
