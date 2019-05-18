@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702927024741",
+    "firebase_url": "https://restaurantes-c3b18.firebaseio.com",
+    "project_id": "restaurantes-c3b18",
+    "storage_bucket": "restaurantes-c3b18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702927024741:android:3714217afba7ba13",
+        "android_client_info": {
+          "package_name": "com.proyectofinal.restaurantes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702927024741-rnegbqidbtjhbv6kt8agoof72qjui2hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyectofinal.restaurantes",
+            "certificate_hash": "b87b778f1f4707c62e57378c65a4671ef42833ff"
+          }
+        },
+        {
+          "client_id": "702927024741-5c38s39878of1snj66tte79t9qa6gdo8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjuOP8ePoJl3HBbCHCmMIaO2R5v-pO1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702927024741-5c38s39878of1snj66tte79t9qa6gdo8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
